@@ -1,0 +1,26 @@
+2025-01-29 19:21:04,275 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 19:21:04,275 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 19:21:04,282 - INFO -  * Restarting with stat
+2025-01-29 19:21:05,153 - WARNING -  * Debugger is active!
+2025-01-29 19:21:05,176 - INFO -  * Debugger PIN: 435-016-311
+2025-01-29 19:21:11,399 - INFO - Home page accessed.
+2025-01-29 19:21:11,407 - INFO - 127.0.0.1 - - [29/Jan/2025 19:21:11] "GET / HTTP/1.1" 200 -
+2025-01-29 19:21:46,961 - WARNING - Service 'sss' not found.
+2025-01-29 19:21:46,961 - INFO - 127.0.0.1 - - [29/Jan/2025 19:21:46] "[33mGET /api/search?service=sss HTTP/1.1[0m" 404 -
+2025-01-29 19:21:58,597 - WARNING - Service 'it services' not found.
+2025-01-29 19:21:58,597 - INFO - 127.0.0.1 - - [29/Jan/2025 19:21:58] "[33mGET /api/search?service=IT%20Services HTTP/1.1[0m" 404 -
+2025-01-29 19:22:00,182 - WARNING - Service 'it services' not found.
+2025-01-29 19:22:00,182 - INFO - 127.0.0.1 - - [29/Jan/2025 19:22:00] "[33mGET /api/search?service=IT%20Services HTTP/1.1[0m" 404 -
+2025-01-29 19:22:00,506 - WARNING - Service 'it services' not found.
+2025-01-29 19:22:00,506 - INFO - 127.0.0.1 - - [29/Jan/2025 19:22:00] "[33mGET /api/search?service=IT%20Services HTTP/1.1[0m" 404 -
+2025-01-29 19:22:12,843 - INFO - Service 'cloud computing' found.
+2025-01-29 19:22:12,843 - INFO - 127.0.0.1 - - [29/Jan/2025 19:22:12] "GET /api/search?service=Cloud%20Computing HTTP/1.1" 200 -
+2025-01-29 19:23:52,950 - INFO -  * Detected change in 'c:\\Users\\RajeevAn\\Downloads\\KM\\app.py', reloading
+2025-01-29 19:23:53,012 - INFO -  * Restarting with stat
+2025-01-29 19:23:53,953 - WARNING -  * Debugger is active!
+2025-01-29 19:23:53,965 - INFO -  * Debugger PIN: 435-016-311
+2025-01-29 19:27:40,037 - INFO -  * Detected change in 'c:\\Users\\RajeevAn\\Downloads\\KM\\app.py', reloading
+2025-01-29 19:27:40,124 - INFO -  * Restarting with stat
+2025-01-29 19:27:41,296 - WARNING -  * Debugger is active!
+2025-01-29 19:27:41,306 - INFO -  * Debugger PIN: 435-016-311
