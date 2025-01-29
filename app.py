@@ -26,16 +26,16 @@ HTML_TEMPLATE = """
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Unisys Pvt Ltd - Company Info</title>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #90EE90; margin: 20px; padding: 20px; }
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 20px; padding: 20px; }
         .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
-        h1 { color: #0073e6; text-align: center; }
+        h1 { color: #90EE90; text-align: center; }
         p { font-size: 16px; line-height: 1.6; }
         .card { padding: 10px; background: #f9f9f9; border-radius: 5px; margin-bottom: 10px; }
         ul { list-style-type: none; padding: 0; }
-        ul li { background: #0073e6; color: white; padding: 8px; margin: 5px 0; border-radius: 5px; text-align: center; }
+        ul li { background: #90EE90; color: white; padding: 8px; margin: 5px 0; border-radius: 5px; text-align: center; }
         a { text-decoration: none; color: #0073e6; font-weight: bold; }
         input, button { padding: 10px; width: 100%; margin-top: 10px; }
-        button { background: #0073e6; color: white; border: none; cursor: pointer; }
+        button { background: #90EE90; color: white; border: none; cursor: pointer; }
         button:hover { background: #005bb5; }
     </style>
 </head>

@@ -24,3 +24,39 @@
 2025-01-29 19:27:40,124 - INFO -  * Restarting with stat
 2025-01-29 19:27:41,296 - WARNING -  * Debugger is active!
 2025-01-29 19:27:41,306 - INFO -  * Debugger PIN: 435-016-311
+2025-01-29 19:29:02,020 - INFO - Home page accessed.
+2025-01-29 19:29:02,023 - INFO - 127.0.0.1 - - [29/Jan/2025 19:29:02] "GET / HTTP/1.1" 200 -
+2025-01-29 19:29:15,443 - INFO -  * Detected change in 'c:\\Users\\RajeevAn\\Downloads\\KM\\app.py', reloading
+2025-01-29 19:29:15,501 - INFO -  * Restarting with stat
+2025-01-29 19:29:16,491 - WARNING -  * Debugger is active!
+2025-01-29 19:29:16,500 - INFO -  * Debugger PIN: 435-016-311
+2025-01-29 19:29:36,785 - INFO - Home page accessed.
+2025-01-29 19:29:36,790 - INFO - 127.0.0.1 - - [29/Jan/2025 19:29:36] "GET / HTTP/1.1" 200 -
+2025-01-29 19:29:36,926 - INFO -  * Detected change in 'c:\\Users\\RajeevAn\\Downloads\\KM\\app.py', reloading
+2025-01-29 19:29:37,007 - INFO -  * Restarting with stat
+2025-01-29 19:29:38,145 - WARNING -  * Debugger is active!
+2025-01-29 19:29:38,152 - INFO -  * Debugger PIN: 435-016-311
+2025-01-29 19:29:40,373 - INFO - Home page accessed.
+2025-01-29 19:29:40,373 - INFO - 127.0.0.1 - - [29/Jan/2025 19:29:40] "GET / HTTP/1.1" 200 -
+2025-01-29 19:30:27,058 - INFO -  * Detected change in 'c:\\Users\\RajeevAn\\Downloads\\KM\\app.py', reloading
+2025-01-29 19:30:27,121 - INFO -  * Restarting with stat
+2025-01-29 19:30:28,279 - WARNING -  * Debugger is active!
+2025-01-29 19:30:28,281 - INFO -  * Debugger PIN: 435-016-311
+2025-01-29 19:30:30,829 - INFO - Home page accessed.
+2025-01-29 19:30:30,834 - INFO - 127.0.0.1 - - [29/Jan/2025 19:30:30] "GET / HTTP/1.1" 200 -
+2025-01-29 19:30:35,722 - INFO -  * Detected change in 'c:\\Users\\RajeevAn\\Downloads\\KM\\app.py', reloading
+2025-01-29 19:30:35,784 - INFO -  * Restarting with stat
+2025-01-29 19:30:36,976 - WARNING -  * Debugger is active!
+2025-01-29 19:30:36,986 - INFO -  * Debugger PIN: 435-016-311
+2025-01-29 19:30:39,438 - INFO - Home page accessed.
+2025-01-29 19:30:39,453 - INFO - 127.0.0.1 - - [29/Jan/2025 19:30:39] "GET / HTTP/1.1" 200 -
+2025-01-29 19:30:55,516 - INFO -  * Detected change in 'c:\\Users\\RajeevAn\\Downloads\\KM\\app.py', reloading
+2025-01-29 19:30:55,604 - INFO -  * Restarting with stat
+2025-01-29 19:30:56,842 - WARNING -  * Debugger is active!
+2025-01-29 19:30:56,852 - INFO -  * Debugger PIN: 435-016-311
+2025-01-29 19:30:59,422 - INFO - Home page accessed.
+2025-01-29 19:30:59,426 - INFO - 127.0.0.1 - - [29/Jan/2025 19:30:59] "GET / HTTP/1.1" 200 -
+2025-01-29 19:31:55,495 - INFO -  * Detected change in 'c:\\Users\\RajeevAn\\Downloads\\KM\\app.py', reloading
+2025-01-29 19:31:55,613 - INFO -  * Restarting with stat
+2025-01-29 19:31:56,941 - WARNING -  * Debugger is active!
+2025-01-29 19:31:56,959 - INFO -  * Debugger PIN: 435-016-311
