@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 5000
 
 # Entrypoint
-CMD ["python", "demo.py"]
+CMD ["python", "app.py"]
